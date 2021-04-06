@@ -1,3 +1,3 @@
 # hello-world
-I'm finally learning how to use GitHub! /n
+I'm finally learning how to use GitHub!\
 So I have been a Scrum Master for two and a half years, now I'm transitioning to Agile Coaching. In the break between roles I tried my hand at the CS50 course to try and get a better understanding of what it is like to be a developer. Through doing the course, I realised that I'm not well-suited to the coding mentality, though I did enjoy it, I was very slow going and found it very difficult. It also made me realise that what I needed to understand was more the ins and outs of how deverlopers collaborate, rathe than the coding itself. Very pleasantly surprised to see GitHub has the helllo-world module to intro people.
